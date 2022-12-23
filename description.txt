@@ -1,0 +1,2 @@
+Bank is the main folder here
+it consists of application properties controllers configurations jsp files required to run the project
